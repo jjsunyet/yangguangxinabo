@@ -1,0 +1,62 @@
+[
+  {
+    "borrowerCertNo": "130121197008070037",
+    "borrowerName": "刘强",
+    "caseNum": 288,
+    "docType": "3",
+    "docTypeNum": 6,
+    "relaterCertNo": "411402198811134044",
+    "relaterFlag": "2",
+    "relaterName": "张芮菡"
+  },
+  {
+    "borrowerCertNo": "130121197008070037",
+    "borrowerName": "刘强",
+    "caseNum": 288,
+    "docType": "1",
+    "docTypeNum": 213,
+    "relaterCertNo": "411402198811134044",
+    "relaterFlag": "2",
+    "relaterName": "张芮菡"
+  },
+  {
+    "borrowerCertNo": "130121197008070037",
+    "borrowerName": "刘强",
+    "caseNum": 193,
+    "docType": "2",
+    "docTypeNum": 137,
+    "relaterCertNo": "130121197008070037",
+    "relaterFlag": "1",
+    "relaterName": "刘强"
+  },
+  {
+    "borrowerCertNo": "130121197008070037",
+    "borrowerName": "刘强",
+    "caseNum": 193,
+    "docType": "1",
+    "docTypeNum": 142,
+    "relaterCertNo": "130121197008070037",
+    "relaterFlag": "1",
+    "relaterName": "刘强"
+  },
+  {
+    "borrowerCertNo": "130121197008070037",
+    "borrowerName": "刘强",
+    "caseNum": 193,
+    "docType": "3",
+    "docTypeNum": 4,
+    "relaterCertNo": "130121197008070037",
+    "relaterFlag": "1",
+    "relaterName": "刘强"
+  },
+  {
+    "borrowerCertNo": "130121197008070037",
+    "borrowerName": "刘强",
+    "caseNum": 288,
+    "docType": "2",
+    "docTypeNum": 204,
+    "relaterCertNo": "411402198811134044",
+    "relaterFlag": "2",
+    "relaterName": "张芮菡"
+  }
+]

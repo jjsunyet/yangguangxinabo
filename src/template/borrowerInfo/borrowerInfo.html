@@ -1,0 +1,19 @@
+
+{{each involved_infos info_0bj index}}//遍历所有对象
+<ul style="color:#990000">
+  {{each info_obj info_item index}}//遍历每一个对象
+  {{if info_item.caseCount && relater_flag === 1}}
+  <li><a href="http://www.baidu.com" style="font-size: 16px;font-weight: bold">涉诉案件数量{{info_item.caseCount}}</a></li>
+  {{/if}}
+  {{if info_item.docuType === 1 && relater_flag === 1}}
+  <li class="subCount">判决书{{info_item.docCount}}</li>
+  {{/if}}
+  {if info_item.docuType === 2 && relater_flag === 1}
+  <li class="subCount">裁定书{{info_item.docCount}}</li>
+  {{/if}}
+  {{if info_item.docuType === 3 && relater_flag === 1}}
+  <li class="subCount">其他文书{{info_item.docCount}}</li>
+  {{/if}}
+  {{/each}}
+</ul>
+{{/each}}

@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+html,body{
+  height: 100%;
+  overflow: hidden;
+}
+body{
+/*  background-image: url("../images/grey.jpg");
+  background-repeat: no-repeat;
+  background-size:  100%;*/
+}
+ul,li{
+  list-style: none;
+}
+.clear-fix::after
+{
+  content: '';
+  clear: both;
+  display: block;
+  height: 0;
+  visibility: hidden;
+}
+.clear-fix
+{
+  zoom: 1;
+}
+/*显示省略号*/
+.ellipsis{
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
